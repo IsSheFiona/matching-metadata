@@ -1,0 +1,29 @@
+.App {
+  height: 100vh;
+  text-align: center;
+  background-color: #E45372;
+  /* display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center; */
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+
+.Form {
+  display: flex;
+  flex-direction: column;
+}
+
+h1 {
+  margin: 0;
+}
+
+input {
+  margin-left: 10px;
+}
+
+.button {
+  width: 50px;
+}
